@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayven31&label=Profile%20views&color=0e75b6&style=flat" alt="ayven31" /> </p>
 
+[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/513752527989374976?theme=dark&bg=272727)](https://discord.com/users/513752527989374976)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayven07" alt="ayven07" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
